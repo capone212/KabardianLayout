@@ -1,5 +1,5 @@
 # KabardianLayout
-Кабардинская раскладка для Windows OS
+Кабардинская раскладка клавиатуры для Windows OS
 
 
 ![Layout](/KbdDemo.png)
